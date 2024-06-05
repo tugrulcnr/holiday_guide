@@ -1,0 +1,4 @@
+enum HolidayType {
+  fun,
+  sea,
+}
